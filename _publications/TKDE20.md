@@ -2,8 +2,7 @@
 title: "Two-sided Online Micro-Task Assignment in Spatial Crowdsourcing"
 collection: publications
 permalink: /publications/TKDE20
-venue: "2020 IEEE Transactions on Knowledge and Data Engineering (TKDE)"
-date: 13 November 2019
+venue: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
 ---
 [[PDF]](http://lbwang95.github.io/files/tkde20.pdf)
 
