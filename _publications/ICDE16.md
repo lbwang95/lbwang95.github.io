@@ -2,7 +2,7 @@
 title: "Online Mobile Micro-Task Allocation in Spatial Crowdsourcing"
 collection: publications
 permalink: /publications/ICDE16
-venue: "2016 IEEE 32nd International Conference on Data Engineering (ICDE)"
+venue: "The 32nd International Conference on Data Engineering (ICDE)"
 date: 16-20 May 2016
 ---
 [[PDF]](http://lbwang95.github.io/files/icde16.pdf)
