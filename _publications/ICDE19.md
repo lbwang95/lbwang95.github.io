@@ -2,7 +2,8 @@
 title: "Procrastination-aware Scheduling: A Bipartite Graph Perspective"
 collection: publications
 permalink: /publications/ICDE19
-venue: "2019 IEEE 35th International Conference on Data Engineering (ICDE)"
+venue: "The 35th International Conference on Data Engineering (ICDE)"
+date: 2019
 ---
 [[PDF]](http://lbwang95.github.io/files/icde19.pdf)
 
