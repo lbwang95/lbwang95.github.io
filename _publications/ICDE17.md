@@ -2,7 +2,7 @@
 title: "Trichromatic Online Matching in Real-Time Spatial Crowdsourcing"
 collection: publications
 permalink: /publications/ICDE17
-venue: "2017 IEEE 33rd International Conference on Data Engineering (ICDE)"
+venue: "The 33rd International Conference on Data Engineering (ICDE)"
 date: 19-22 April 2017
 ---
 [[PDF]](http://lbwang95.github.io/files/icde17.pdf)
