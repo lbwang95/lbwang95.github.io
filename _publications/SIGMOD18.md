@@ -3,7 +3,7 @@ title: "Dynamic Pricing in Spatial Crowdsourcing: A Matching-Based Approach"
 collection: publications
 permalink: /publications/SIGMOD18
 venue: "The 37th ACM SIGMOD International Conference on Management of Data (SIGMOD)"
-date: June 10-15, 2018
+date: 2018
 ---
 [[PDF]](http://lbwang95.github.io/files/sigmod18.pdf)
 
