@@ -1722,7 +1722,7 @@ var Flowtime = (function ()
 	 */
 	Brav1Toolbox.addListener(window, "keydown", onKeyDown);
 	Brav1Toolbox.addListener(window, "keyup", onKeyUp);
-	
+
 	function onKeyDown(e)
 	{
 		var tag = e.target.tagName;
