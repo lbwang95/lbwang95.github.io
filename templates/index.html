@@ -14,7 +14,7 @@
 <!--[if !(IE)]><!-->
 <html>
 <!--<![endif]-->
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
 <head>
 	<meta http-equiv='Pragma' content='no-cache' />
 	<meta charset="UTF-8">
@@ -35,6 +35,13 @@
 			var x = document.getElementById("myaudio");
 			x.play()},213000);*/
 		}, false);  
+		window.addEventListener('keydown', function(){
+			var x = document.getElementById("myaudio");
+			x.play()/*
+			setInterval(function(){
+			var x = document.getElementById("myaudio");
+			x.play()},213000);*/
+		}, false); 
     </script>
 	<div class="flowtime">
 		<div class="ft-section section-1" data-id="section-1">
@@ -421,5 +428,6 @@
 	
 	<script src="static/js/all.min.js"></script>
 	<script src="static/js/love.min.js"></script>
+	<script src="static/js/flowtime.js"></script>
 </body>
 </html>
